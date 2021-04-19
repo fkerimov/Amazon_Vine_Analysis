@@ -17,11 +17,12 @@ The analysis was performed using PySpark in the following steps:
 ![unpaid_reviews](images/unpaid_reviews.png)
 
 * Given that there are 0 Vine reviews, all the 242889 5-star reviews were done by non-Vine members.
-![five_star_reviews](images/five_star_reviews.png)
+![five_star_reviews](images/five_star_reviews.png)<br>
+Confirmation that all 5-star reviews are by non-Vine members
 ![unpaid_five_star](images/unpaid_five_star_reviews.png)
 
 * 60% of the non-Vine reviews are 5-Star reviews.
-* ![unpaid_five_star](images/percent_unpaid_five_star.png)
+![unpaid_five_star](images/percent_unpaid_five_star.png)
 
-
-
+Summary: 
+Analysis shows no evidence of bias in the reviews given that nearly all the reviews were done by non-Vine members. Further analysis of two other book datasets (v1_01 and v1_00) was conducted 
