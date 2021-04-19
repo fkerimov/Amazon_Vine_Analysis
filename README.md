@@ -37,6 +37,7 @@ Analysis shows no evidence of bias in the reviews given that nearly all the revi
 ![five_star_percentage](images/five_star_percentage.png)<br>
 
 ## Summary for [...]v1_01.tsv.gz dataset: 
-While the second analysis includes more Vine reviews, it supports the findings in the original analysis. Namely, that the datasets contain few reviews of books by Vine members. The second analysis, however, does confirm the absense of bias in the Vine reviews given that only 33.5% of the Vine reviews are 5-Star reviews, while over half of non-Vine reviews are 5-star. 
+While the second analysis includes more Vine reviews, it supports the findings in the original analysis. Namely, that the datasets contain few positive reviews of books by Vine members. 
+The second analysis, however, does confirm the absense of bias in the Vine reviews given that only 33.5% of the Vine reviews are 5-Star reviews, while over half of non-Vine reviews are 5-star. Furthermore, 99% of the total 5-star reviews are done  by non-Vine members. 
 
 
